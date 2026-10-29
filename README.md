@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-HDR+Software-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-HDR+Photography-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 easyHDR Free Installer** — easyHDR is a Windows and macOS HDR photo processing software for creating high dynamic range images from bracketed exposure photos. Works without internet access, no account required. Full offline installation.
+**💻 easyHDR Free Installer** — easyHDR is an HDR (High Dynamic Range) photo processing application for Windows and macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About easyHDR
 
-easyHDR is a Windows and macOS HDR photo processing software for creating high dynamic range images from bracketed exposure photos. It provides ghost removal, tone mapping presets, batch processing, and panoramic HDR support.
+easyHDR is an HDR (High Dynamic Range) photo processing application for Windows and macOS. Merge bracketed exposure sets into HDR images with tone mapping and ghosting reduction tools for moving objects between shots. easyHDR's clean interface and straightforward workflow make HDR photography accessible to enthusiast photographers without specialized software knowledge.
 
 ---
 
 ## ❌ Problem: easyHDR is hard to access
 
-- **Paid License** — Requires purchase
-- **Niche Use** — HDR photography workflow increasingly handled within Lightroom or Photoshop
-- **Limited Non-HDR Tools** — Single-purpose tool requiring separate photo editor for other adjustments
-- **Competition** — Photomatix Pro has a larger user community and more presets
+- **Specialized Use** — Only useful for HDR photography workflows
+- **Commercial License** — Requires paid license for full functionality
+- **Competition** — Lightroom's built-in HDR merge satisfies many photographers
+- **Skill Required** — Understanding exposure bracketing and tone mapping is necessary
 
 ---
 
@@ -121,7 +121,7 @@ easyHDR is a Windows and macOS HDR photo processing software for creating high d
 
 ---
 
-**easyHDR Free Installer** — easyHDR is a Windows and macOS HDR photo processing software for creating high dynamic range images from bracketed exposure photos. Install without internet connection today!
+**easyHDR Free Installer** — easyHDR is an HDR (High Dynamic Range) photo processing application for Windows and macOS. Install without internet connection today!
 
 <div align="center">
 
